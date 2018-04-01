@@ -5,7 +5,7 @@ public class distribute {
 
     public void distributed(ArrayList<Integer> list) {
         int playerTotal[] = {0, 0, 0, 0};
-        ArrayList<Integer> finalList = new ArrayList<>();
+        //ArrayList<Integer> finalList = new ArrayList<>();
         int curPlayer = 0;
         int j;
         final int total = 13;
